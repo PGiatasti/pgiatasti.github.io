@@ -12,9 +12,6 @@ rm -rf $(ls | grep -v CNAME | grep -v '.git')
 
 echo "Generating site"
 cd ..
-cd content
-cp about.md _index.md
-cd ..
 hugo || exit 1
 
 cd public
