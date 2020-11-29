@@ -16,12 +16,8 @@ hugo || exit 1
 
 cd public
 echo "Updating gh-pages branch"
-git add --all && git commit -m "Publishing to gh-pages" || exit 1
-
-echo "Pushing to github"
-git push origin gh-pages
+git add --all && git commit -m "Publishing to gh-pages" && git push origin gh-pages || exit 1
 
 cd ..
 rm -rf public
-git add --all && git commit -m "Publishing to main"
-git push origin main
+git add --all && git commit -m "Publishing to main" && git push origin main || exit 1
