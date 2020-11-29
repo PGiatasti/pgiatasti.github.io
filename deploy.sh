@@ -11,8 +11,10 @@ cd public
 rm -rf $(ls | grep -v CNAME | grep -v '.git')
 
 echo "Generating site"
-hugo
+cd ..
+hugo || exit 1
 
+cd public
 echo "Updating gh-pages branch"
 git add --all && git commit -m "Publishing to gh-pages" || exit 1
 
