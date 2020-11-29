@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pgiatasti.it/flag/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://pgiatasti.it/</loc>
+    <loc>/flag/</loc>
   </url>
   
   <url>
-    <loc>https://pgiatasti.it/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://pgiatasti.it/contact/</loc>
+    <loc>/</loc>
   </url>
   
 </urlset>
