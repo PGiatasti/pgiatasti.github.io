@@ -9,7 +9,7 @@ title = ".:whoami:."
 
 The philosophy of the team is based on the knowledge sharing and the continuous acquisition of new skills.
 
-We love to play CTF and become more and more skilled after every competition
+We love to play CTF and become more and more skilled after every competition.
 
 ## Goals
 
