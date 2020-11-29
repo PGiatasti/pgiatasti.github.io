@@ -16,7 +16,7 @@ We love to play CTF and become more and more skilled after every competition.
 In chronological order:
 - 7th place at HITCONCTF 2020 with [rhackomandati](https://ctftime.org/team/140564)
 - 🥈 place at molec0nCTF 2020
-- 🥉 place at Reply Cybersecurty Challenge 2020
+- 🥉 place at Reply Cybersecurity Challenge 2020
 - 6th place at HexionCTF
 - 🥈 place at AUCTF
 
