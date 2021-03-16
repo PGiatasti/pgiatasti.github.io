@@ -13,6 +13,10 @@
   <url>
     <loc>/about/</loc>
   </url>
+
+   <url>
+    <loc>/team/</loc>
+  </url>
   
   <url>
     <loc>/</loc>
