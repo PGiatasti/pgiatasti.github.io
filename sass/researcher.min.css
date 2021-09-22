@@ -18,6 +18,10 @@ body{
     pointer-events: none;
     cursor: default;
 }
+.navbar-text {
+    line-height: 1.2 !important;
+    color: #FFFFFF !important;
+}
 #footer a,.navbar-brand{
     color:#fff;
     text-decoration:none
